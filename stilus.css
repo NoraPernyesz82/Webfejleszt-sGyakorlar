@@ -1,0 +1,14 @@
+table, td{
+    border: 2px solid green;
+}
+td{
+    width: 30px;
+    text-align: right;
+    background-color: lightgreen;
+    border-radius: 5px;
+    font-family: consolas;
+}
+table {
+    border-radius: 5px;
+    background-color: darkgreen;
+}
